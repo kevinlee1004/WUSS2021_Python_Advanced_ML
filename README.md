@@ -3,13 +3,12 @@ The advanced Python programming seminar will cover more advanced Python programm
 
 Agenda for advanced Python programming seminar
 
-Simple review of basic Python Programming seminar
-Metadata analysis (PROC CONTENT)
-Advanced Programming – transpose, remove duplicate record, group-by
-Statistical Analysis – Pair t-test, Fisher Exact Test, Survival Analysis
-Data visualization – Scatter Plot, Histogram, Kaplan Meier Curves
-Machine Learning Introduction – concepts and theory
-Machine Learning Algorithm – Regression, Logistic Regression, Decision Tree
-Deep Learning Algorithm – Deep Neural Network (DNN), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN)
-Python Machine Learning modules – Sklearn, Tensorflow, Keras
-Python Machine Learning workshop using image data
+- Simple review of basic Python Programming seminar
+- Metadata analysis (PROC CONTENT)
+- Advanced Programming – merge, sort, transpose, remove duplicate record, group-by
+- Statistical Analysis – Pair t-test, Fisher Exact Test, Survival Analysis
+- Data visualization – Scatter Plot, Histogram, Kaplan Meier Curves
+- Machine Learning Introduction – concepts and theory
+- Machine Learning Algorithm – SVM, KNN, Regression, Logistic Regression, Decision Tree, Random Forest, XGBoost
+- Deep Learning Algorithm – Deep Neural Network (DNN), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN)
+- Python Machine Learning modules – Sklearn, Tensorflow, Keras
