@@ -1,0 +1,15 @@
+(base) C:\Users\kevin>pip install xport==2.0.2
+
+(base) C:\Users\kevin>conda install seaborn
+
+(base) C:\Users\kevin>pip install lifelines
+
+(base) C:\Users\kevin>pip install datacompy
+
+(base) C:\Users\kevin>pip install xgboost
+
+(base) C:\Users\kevin>pip install tensorflow
+
+(base) C:\Users\kevin>pip install keras
+
+(base) C:\Users\kevin>pip install pytorch
